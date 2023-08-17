@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **completing my 100 days code challenge**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **MongoDB**
 
 - 💬 Ask me about **Html,Css,DSA,JS**
 
