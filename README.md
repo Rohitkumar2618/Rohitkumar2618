@@ -5,7 +5,7 @@
 
 
 
-<h3 align="center">A passionate frontend developper from India ![image](https://github.com/Rohitkumar2618/Rohitkumar2618/assets/109166754/9e8fc3a8-1592-49a5-b372-369948ff0c50)
+<h3 align="center">A passionate frontend developper from India 
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitkumar2618&label=Profile%20views&color=0e75b6&style=flat" alt="rohitkumar2618" /> </p>
