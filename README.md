@@ -1,6 +1,6 @@
 [![MasterHead](https://camo.githubusercontent.com/5b1d292467a7b41f288e50d450674ef3cfb99862405c58b6d440957ae3519c22/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f666c6578692d636f64696e672e61707073706f742e636f6d2f6f2f64656d706769372d35323066386435662d363364342d343435332d383832322d6462633134396165323766382e6769663f616c743d6d6564696126746f6b656e3d39316330633762322d393363332d343032392d623031312d316138373033633537333064)
 <h1 align="center">Hi 👋, I'm Rohitkumar</h1>
-     <img src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" alt="">
+     <img src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" alt="">
 
 
 
@@ -10,15 +10,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitkumar2618&label=Profile%20views&color=0e75b6&style=flat" alt="rohitkumar2618" /> </p>
 
-- 🔭 I’m currently working on **completing my 100 days code challenge**
+- 🔭 I’m currently working on ** My 30 DAY NON_STOP code challenge**
 
-- 🌱 I’m currently learning **MongoDB**
+- 🌱 I’m currently learning **Backend Development**
 
-- 💬 Ask me about **Html,Css,DSA,JS**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **mankarrohitkumar26@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/rohit-darunde-2606r1802a</h3>
 <p align="left">
 </p>
 
